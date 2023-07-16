@@ -28,6 +28,10 @@ const Listado=()=>{
         <>
              <h1> Harom codec</h1>
              <header>
+                 <head>
+                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1346417359009807"
+     crossorigin="anonymous"></script>
+                 </head>
                 <input
                 value={query}
                 placeholder="Buscar Pokemon"
