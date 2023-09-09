@@ -1,0 +1,382 @@
+{
+    "results": [
+      {
+        "national_number": "001",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bulbasaur.png",
+          "large": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif"
+        },
+        "name": "Bulbasaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 318,
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 45
+      },
+      {
+        "national_number": "002",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ivysaur.png",
+          "large": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif"
+        },
+        "name": "Ivysaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 405,
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 60
+      },
+      {
+        "national_number": "003",
+        "evolution": {
+          "name": "Mega Venusaur"
+        },
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/venusaur.png",
+          "large": "https://img.pokemondb.net/artwork/venusaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif"
+        },
+        "name": "Venusaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 625,
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "sp_atk": 122,
+        "sp_def": 120,
+        "speed": 80
+      },
+      {
+        "national_number": "003",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/venusaur.png",
+          "large": "https://img.pokemondb.net/artwork/venusaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif"
+        },
+        "name": "Venusaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 525,
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 80
+      },
+      {
+        "national_number": "004",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmander.png",
+          "large": "https://img.pokemondb.net/artwork/charmander.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif"
+        },
+        "name": "Charmander",
+        "type": [
+          "Fire"
+        ],
+        "total": 309,
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "sp_atk": 60,
+        "sp_def": 50,
+        "speed": 65
+      },
+      {
+        "national_number": "005",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmeleon.png",
+          "large": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmeleon.gif"
+        },
+        "name": "Charmeleon",
+        "type": [
+          "Fire"
+        ],
+        "total": 405,
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "sp_atk": 80,
+        "sp_def": 65,
+        "speed": 80
+      },
+      {
+        "national_number": "006",
+        "evolution": {
+          "name": "Mega Charizard X"
+        },
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+          "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+        },
+        "name": "Charizard",
+        "type": [
+          "Fire",
+          "Dragon"
+        ],
+        "total": 634,
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "sp_atk": 130,
+        "sp_def": 85,
+        "speed": 100
+      },
+      {
+        "national_number": "006",
+        "evolution": {
+          "name": "Mega Charizard Y"
+        },
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+          "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+        },
+        "name": "Charizard",
+        "type": [
+          "Fire",
+          "Flying"
+        ],
+        "total": 634,
+        "hp": 78,
+        "attack": 104,
+        "defense": 78,
+        "sp_atk": 159,
+        "sp_def": 115,
+        "speed": 100
+      },
+      {
+        "national_number": "006",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+          "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+        },
+        "name": "Charizard",
+        "type": [
+          "Fire",
+          "Flying"
+        ],
+        "total": 534,
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_atk": 109,
+        "sp_def": 85,
+        "speed": 100
+      },
+      {
+        "national_number": "007",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/squirtle.png",
+          "large": "https://img.pokemondb.net/artwork/squirtle.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif"
+        },
+        "name": "Squirtle",
+        "type": [
+          "Water"
+        ],
+        "total": 314,
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "sp_atk": 50,
+        "sp_def": 64,
+        "speed": 43
+      },
+      {
+        "national_number": "008",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wartortle.png",
+          "large": "https://img.pokemondb.net/artwork/wartortle.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/wartortle.gif"
+        },
+        "name": "Wartortle",
+        "type": [
+          "Water"
+        ],
+        "total": 405,
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "sp_atk": 65,
+        "sp_def": 80,
+        "speed": 58
+      },
+      {
+        "national_number": "009",
+        "evolution": {
+          "name": "Mega Blastoise"
+        },
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blastoise.png",
+          "large": "https://img.pokemondb.net/artwork/blastoise.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif"
+        },
+        "name": "Blastoise",
+        "type": [
+          "Water"
+        ],
+        "total": 630,
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "sp_atk": 135,
+        "sp_def": 115,
+        "speed": 78
+      },
+      {
+        "national_number": "009",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blastoise.png",
+          "large": "https://img.pokemondb.net/artwork/blastoise.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif"
+        },
+        "name": "Blastoise",
+        "type": [
+          "Water"
+        ],
+        "total": 530,
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "sp_atk": 85,
+        "sp_def": 105,
+        "speed": 78
+      },
+      {
+        "national_number": "010",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/caterpie.png",
+          "large": "https://img.pokemondb.net/artwork/caterpie.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/caterpie.gif"
+        },
+        "name": "Caterpie",
+        "type": [
+          "Bug"
+        ],
+        "total": 195,
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "sp_atk": 20,
+        "sp_def": 20,
+        "speed": 45
+      },
+      {
+        "national_number": "011",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/metapod.png",
+          "large": "https://img.pokemondb.net/artwork/metapod.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/metapod.gif"
+        },
+        "name": "Metapod",
+        "type": [
+          "Bug"
+        ],
+        "total": 205,
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 30
+      },
+      {
+        "national_number": "012",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/butterfree.png",
+          "large": "https://img.pokemondb.net/artwork/butterfree.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/butterfree.gif"
+        },
+        "name": "Butterfree",
+        "type": [
+          "Bug",
+          "Flying"
+        ],
+        "total": 395,
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "sp_atk": 90,
+        "sp_def": 80,
+        "speed": 70
+      },
+      {
+        "national_number": "013",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/weedle.png",
+          "large": "https://img.pokemondb.net/artwork/weedle.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/weedle.gif"
+        },
+        "name": "Weedle",
+        "type": [
+          "Bug",
+          "Poison"
+        ],
+        "total": 195,
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp_atk": 20,
+        "sp_def": 20,
+        "speed": 50
+      },
+      {
+        "national_number": "014",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kakuna.png",
+          "large": "https://img.pokemondb.net/artwork/kakuna.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/kakuna.gif"
+        },
+        "name": "Kakuna",
+        "type": [
+          "Bug",
+          "Poison"
+        ],
+        "total": 205,
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 35
+      }
+    ]
+  }

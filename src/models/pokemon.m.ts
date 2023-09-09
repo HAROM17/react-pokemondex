@@ -1,6 +1,6 @@
 export type Pokemon = {
-    name: string;
     id: string;
+    name: string;
     imggif: string;
     imglarge: string;
     imgnormal: string;

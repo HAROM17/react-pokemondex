@@ -1,0 +1,10 @@
+1. Instalar Node JS, GIT y VsCode
+2. Ir a esta pagina https://create-react-app.dev/docs/adding-typescript/
+3. Crear Carpeta del Proyecto y abrir terminal dentro de este
+4. Ejecutar npx create-react-app my-app --template typescript pero cambiar "my-app" por el nombre de su proyecto
+5. Una vez creada la carpeta ejecutar npm run start
+6. Ahora instalar npm i react-router-dom
+7. Ahora Agregar Bootstrap npm install react-bootstrap bootstrap (Documentacion: https://react-bootstrap.github.io/components/cards/)
+8. Programar
+9. Iconos : https://www.flaticon.com/
+10. Publicar
