@@ -46,10 +46,7 @@ Para ejecutar este proyecto, una ves clonado en la carpeta htdocs abrir vscode, 
 "npm run start"
 
 ## OJO
-Al momento de abrirlo en el vscode:
-la carpeta 'builds' borra la letra "s" hasta que quede 'build'
-igual la carpeta 'node_moduless' borra la ultima letra q es la "s" hasta que quede 'node_modules'.
-
+ojito
 
 
 
