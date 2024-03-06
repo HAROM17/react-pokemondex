@@ -19,7 +19,7 @@ _Para poder inicializar el sistema se requiere lo siguiente :_
 
 ### Instalación 🔧
 ```
-_Bajar los archivos
+npx create-react-app nombredetuproyecto
 
 ```
 
@@ -36,7 +36,9 @@ _Las herramientas utilizadas son las siguientes_
 
 
 ## Autores ✒️
-HANS 
+
+* **Hans Romulo** - *Trabajo Inicial* - [HAROM17](https://github.com/HAROM17)
+
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
@@ -46,9 +48,8 @@ Para ejecutar este proyecto, una ves clonado en la carpeta htdocs abrir vscode, 
 "npm run start"
 
 ## OJO
-Al momento de abrirlo en el vscode:
-la carpeta 'builds' borra la letra "s" hasta que quede 'build'
-igual la carpeta 'node_moduless' borra la ultima letra q es la "s" hasta que quede 'node_modules'.
+Enlace del proyecto publicado [Pokemones](https://pokedev17.netlify.app/)
+ojito
 
 
 
