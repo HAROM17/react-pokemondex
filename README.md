@@ -49,7 +49,7 @@ Para ejecutar este proyecto, una ves clonado en la carpeta htdocs abrir vscode, 
 
 ## OJO
 
-Enlace del proyecto publicado [Pokemones](https://pokedev17.netlify.app/) para detalles
+Enlace del proyecto publicado [Pokemones](https://pokedev17.netlify.app/)
 
 
 
