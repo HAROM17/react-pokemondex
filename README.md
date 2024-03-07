@@ -48,8 +48,8 @@ Para ejecutar este proyecto, una ves clonado en la carpeta htdocs abrir vscode, 
 "npm run start"
 
 ## OJO
-Enlace del proyecto publicado [Pokemones](https://pokedev17.netlify.app/)
-ojito
+
+Enlace del proyecto publicado [Pokemones](https://pokedev17.netlify.app/) para detalles
 
 
 
